@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ECU_Trunk_Lid_Logic_Tests" tests="12" failures="0" errors="0">
+  <testsuite name="ECU_Trunk_Lid_Logic_Model" tests="12" failures="0" errors="0">
+    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_01_RemoteTrunkCmd_1_InternalTrunkCmd_0_KL30_1_VehStatus_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_02_RemoteTrunkCmd_0_InternalTrunkCmd_1_KL30_1_VehStatus_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_03_RemoteTrunkCmd_1_InternalTrunkCmd_1_KL30_1_VehStatus_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_04_RemoteTrunkCmd_1_InternalTrunkCmd_0_KL30_1_VehStatus_0_KL15_1_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_05_RemoteTrunkCmd_0_InternalTrunkCmd_1_KL30_1_VehStatus_0_KL15_0_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_06_RemoteTrunkCmd_1_InternalTrunkCmd_0_KL30_1_VehStatus_0_KL15_0_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_07_RemoteTrunkCmd_0_InternalTrunkCmd_0_KL30_1_VehStatus_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_08_RemoteTrunkCmd_1_InternalTrunkCmd_0_KL30_0_VehStatus_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_09_RemoteTrunkCmd_1_InternalTrunkCmd_0_KL30_1_VehStatus_1_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_10_RemoteTrunkCmd_1_InternalTrunkCmd_0_KL30_1_VehStatus_0_KL15_1_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_11_RemoteTrunkCmd_0_InternalTrunkCmd_0_KL30_0_VehStatus_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Trunk_Lid_Logic_Model" name="Test_12_RemoteTrunkCmd_1_InternalTrunkCmd_0_KL30_0_VehStatus_1_KL15_1_Eng_1">
+    </testcase>\n  </testsuite>
+</testsuites>
