@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ECU_Farol_Baixo_Tests" tests="14" failures="0" errors="0">
+  <testsuite name="ECU_Farol_Baixo_Model" tests="14" failures="0" errors="0">
+    <testcase classname="ECU_Farol_Baixo_Model" name="Test_01_KL30_1_CmdMan_1_CmdAuto_0_KL15_1_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_02_KL30_1_CmdMan_0_CmdAuto_1_KL15_1_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_03_KL30_1_CmdMan_1_CmdAuto_0_KL15_0_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_04_KL30_1_CmdMan_0_CmdAuto_1_KL15_0_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_05_KL30_1_CmdMan_1_CmdAuto_1_KL15_1_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_06_KL30_1_CmdMan_1_CmdAuto_1_KL15_1_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_07_KL30_1_CmdMan_1_CmdAuto_1_KL15_0_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_08_KL30_0_CmdMan_1_CmdAuto_0_KL15_1_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_09_KL30_1_CmdMan_0_CmdAuto_0_KL15_1_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_10_KL30_1_CmdMan_0_CmdAuto_0_KL15_0_Eng_1">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_11_KL30_1_CmdMan_1_CmdAuto_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_12_KL30_1_CmdMan_0_CmdAuto_1_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_13_KL30_0_CmdMan_0_CmdAuto_0_KL15_0_Eng_0">
+    </testcase>\n    <testcase classname="ECU_Farol_Baixo_Model" name="Test_14_KL30_1_CmdMan_0_CmdAuto_0_KL15_0_Eng_0">
+    </testcase>\n  </testsuite>
+</testsuites>
