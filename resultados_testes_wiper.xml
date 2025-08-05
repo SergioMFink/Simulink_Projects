@@ -1,0 +1,36 @@
+<testsuites name="ECU_Wiper_Tests" tests="16" failures="%d">
+  <testsuite name="Test_Wiper_Model" tests="16" failures="%d">
+    <testcase classname="Test_Wiper_Model" name="Test_01_KL15_0_Switch_0_Rain_0_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_02_KL15_1_Switch_0_Rain_0_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_03_KL15_0_Switch_1_Rain_0_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_04_KL15_1_Switch_1_Rain_0_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_05_KL15_0_Switch_0_Rain_1_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_06_KL15_1_Switch_0_Rain_1_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_07_KL15_0_Switch_1_Rain_1_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_08_KL15_1_Switch_1_Rain_1_Park_0">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_09_KL15_0_Switch_0_Rain_0_Park_1">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_10_KL15_1_Switch_0_Rain_0_Park_1">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_11_KL15_0_Switch_1_Rain_0_Park_1">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_12_KL15_1_Switch_1_Rain_0_Park_1">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_13_KL15_0_Switch_0_Rain_1_Park_1">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_14_KL15_1_Switch_0_Rain_1_Park_1">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_15_KL15_0_Switch_1_Rain_1_Park_1">
+    </testcase>
+    <testcase classname="Test_Wiper_Model" name="Test_16_KL15_1_Switch_1_Rain_1_Park_1">
+    </testcase>
+  </testsuite>
+</testsuites>
