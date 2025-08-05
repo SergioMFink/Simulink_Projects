@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+   <testsuite failures="0" name="Testes_Brake_Signal_Model" tests="16">
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_1" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=0, Brake_Pedal=0, Gas_Pedal=0
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_2" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=0, Brake_Pedal=0, Gas_Pedal=0
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_3" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=1, Brake_Pedal=0, Gas_Pedal=0
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_4" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=1, Brake_Pedal=0, Gas_Pedal=0
+Esperado: 1
+Obtido: 1</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_5" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=0, Brake_Pedal=1, Gas_Pedal=0
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_6" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=0, Brake_Pedal=1, Gas_Pedal=0
+Esperado: 1
+Obtido: 1</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_7" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=1, Brake_Pedal=1, Gas_Pedal=0
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_8" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="0"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=1, Brake_Pedal=1, Gas_Pedal=0
+Esperado: 1
+Obtido: 1</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_9" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=0, Brake_Pedal=0, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_10" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=0, Brake_Pedal=0, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_11" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=1, Brake_Pedal=0, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_12" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="0"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=1, Brake_Pedal=0, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_13" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=0, Brake_Pedal=1, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_14" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="0"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=0, Brake_Pedal=1, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_15" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="0"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=0, Hill_Signal=1, Brake_Pedal=1, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+      <testcase classname="Brake_Signal_Model" name="Teste_Combinacao_16" status="SUCCESS">
+         <properties>
+            <property name="KL30" value="1"/>
+            <property name="Hill_Signal" value="1"/>
+            <property name="Brake_Pedal" value="1"/>
+            <property name="Gas_Pedal" value="1"/>
+         </properties>
+         <system-out>Entradas: KL30=1, Hill_Signal=1, Brake_Pedal=1, Gas_Pedal=1
+Esperado: 0
+Obtido: 0</system-out>
+      </testcase>
+   </testsuite>
+</testsuites>
