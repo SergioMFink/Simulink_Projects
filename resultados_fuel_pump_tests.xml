@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="FuelPumpControlTests" tests="12">
+  <testsuite name="FuelPumpControlModel" tests="12">
+    <testcase classname="FuelPumpControlModel" name="Test_01_Fuel_0.25_KL15_1">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_02_Fuel_0.10_KL15_1">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_03_Fuel_0.00_KL15_1">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_04_Fuel_0.26_KL15_1">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_05_Fuel_0.50_KL15_1">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_06_Fuel_1.00_KL15_1">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_07_Fuel_0.25_KL15_0">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_08_Fuel_0.10_KL15_0">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_09_Fuel_0.00_KL15_0">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_10_Fuel_0.50_KL15_0">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_11_Fuel_1.00_KL15_0">
+    </testcase>
+    <testcase classname="FuelPumpControlModel" name="Test_12_Fuel_0.30_KL15_0">
+    </testcase>
+  </testsuite>
+</testsuites>

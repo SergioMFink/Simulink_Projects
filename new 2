@@ -1,0 +1,19 @@
+>> testar_ECU_Wiper
+=== Testes Test_Wiper_Model ===
+Test_01_KL15_0_Switch_0_Rain_0_Park_0 | Entradas: [KL15=0, Switch_Wiper=0, Rain_Sensor=0, Park_Switch=0] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_02_KL15_1_Switch_0_Rain_0_Park_0 | Entradas: [KL15=1, Switch_Wiper=0, Rain_Sensor=0, Park_Switch=0] | Esperado: 0 | Simulado: 0 --> ✅ OK
+Test_03_KL15_0_Switch_1_Rain_0_Park_0 | Entradas: [KL15=0, Switch_Wiper=1, Rain_Sensor=0, Park_Switch=0] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_04_KL15_1_Switch_1_Rain_0_Park_0 | Entradas: [KL15=1, Switch_Wiper=1, Rain_Sensor=0, Park_Switch=0] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_05_KL15_0_Switch_0_Rain_1_Park_0 | Entradas: [KL15=0, Switch_Wiper=0, Rain_Sensor=1, Park_Switch=0] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_06_KL15_1_Switch_0_Rain_1_Park_0 | Entradas: [KL15=1, Switch_Wiper=0, Rain_Sensor=1, Park_Switch=0] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_07_KL15_0_Switch_1_Rain_1_Park_0 | Entradas: [KL15=0, Switch_Wiper=1, Rain_Sensor=1, Park_Switch=0] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_08_KL15_1_Switch_1_Rain_1_Park_0 | Entradas: [KL15=1, Switch_Wiper=1, Rain_Sensor=1, Park_Switch=0] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_09_KL15_0_Switch_0_Rain_0_Park_1 | Entradas: [KL15=0, Switch_Wiper=0, Rain_Sensor=0, Park_Switch=1] | Esperado: 0 | Simulado: 0 --> ✅ OK
+Test_10_KL15_1_Switch_0_Rain_0_Park_1 | Entradas: [KL15=1, Switch_Wiper=0, Rain_Sensor=0, Park_Switch=1] | Esperado: 0 | Simulado: 0 --> ✅ OK
+Test_11_KL15_0_Switch_1_Rain_0_Park_1 | Entradas: [KL15=0, Switch_Wiper=1, Rain_Sensor=0, Park_Switch=1] | Esperado: 0 | Simulado: 0 --> ✅ OK
+Test_12_KL15_1_Switch_1_Rain_0_Park_1 | Entradas: [KL15=1, Switch_Wiper=1, Rain_Sensor=0, Park_Switch=1] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_13_KL15_0_Switch_0_Rain_1_Park_1 | Entradas: [KL15=0, Switch_Wiper=0, Rain_Sensor=1, Park_Switch=1] | Esperado: 0 | Simulado: 0 --> ✅ OK
+Test_14_KL15_1_Switch_0_Rain_1_Park_1 | Entradas: [KL15=1, Switch_Wiper=0, Rain_Sensor=1, Park_Switch=1] | Esperado: 1 | Simulado: 1 --> ✅ OK
+Test_15_KL15_0_Switch_1_Rain_1_Park_1 | Entradas: [KL15=0, Switch_Wiper=1, Rain_Sensor=1, Park_Switch=1] | Esperado: 0 | Simulado: 0 --> ✅ OK
+Test_16_KL15_1_Switch_1_Rain_1_Park_1 | Entradas: [KL15=1, Switch_Wiper=1, Rain_Sensor=1, Park_Switch=1] | Esperado: 1 | Simulado: 1 --> ✅ OK
+=== Testes finalizados ===
