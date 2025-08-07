@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PressurePumpControlTests" tests="14">
+  <testsuite name="Tire_Presssure_Lamp_Model" tests="14">
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_01_Pressure_17.00_KL15_1">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_02_Pressure_19.00_KL15_1">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_03_Pressure_18.00_KL15_1">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_04_Pressure_17.00_KL15_1">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_05_Pressure_21.00_KL15_1">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_06_Pressure_22.00_KL15_1">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_07_Pressure_23.00_KL15_1">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_08_Pressure_20.00_KL15_0">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_09_Pressure_19.00_KL15_0">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_10_Pressure_18.00_KL15_0">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_11_Pressure_17.00_KL15_0">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_12_Pressure_21.00_KL15_0">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_13_Pressure_22.00_KL15_0">
+    </testcase>
+    <testcase classname="Tire_Presssure_Lamp_Model" name="Test_14_Pressure_23.00_KL15_0">
+    </testcase>
+  </testsuite>
+</testsuites>
