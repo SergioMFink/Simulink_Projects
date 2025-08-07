@@ -17,3 +17,5 @@ Test_14_KL15_1_Switch_0_Rain_1_Park_1 | Entradas: [KL15=1, Switch_Wiper=0, Rain_
 Test_15_KL15_0_Switch_1_Rain_1_Park_1 | Entradas: [KL15=0, Switch_Wiper=1, Rain_Sensor=1, Park_Switch=1] | Esperado: 0 | Simulado: 0 --> ✅ OK
 Test_16_KL15_1_Switch_1_Rain_1_Park_1 | Entradas: [KL15=1, Switch_Wiper=1, Rain_Sensor=1, Park_Switch=1] | Esperado: 1 | Simulado: 1 --> ✅ OK
 === Testes finalizados ===
+
+
