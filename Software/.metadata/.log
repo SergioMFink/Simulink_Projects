@@ -22,3 +22,50 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-08-08 16:24:52.474
 !MESSAGE Indexed 'ECU_Farol_Baixo_Project' (17 sources, 78 headers) in 0.823 sec: 3,661 declarations; 13,456 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2025-08-11 07:53:18.706 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  C:\Workspace\Simulink\Fink_Playground\ECU_Farol_Baixo\Software\ECU_Farol_Baixo_Project\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Workspace\Simulink\Fink_Playground\ECU_Farol_Baixo\Software\ECU_Farol_Baixo_Project\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-11 07:53:57.757
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-11 07:53:57.757
+!MESSAGE Log4j2 initialized with config file C:\Workspace\Simulink\Fink_Playground\ECU_Farol_Baixo\Software\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-11 07:54:05.685
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-11 07:54:08.189
+!MESSAGE Indexed 'ECU_Farol_Baixo_Project' (17 sources, 78 headers) in 1.59 sec: 3,661 declarations; 13,456 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2025-08-11 09:05:57.996 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  C:\Workspace\Simulink\Fink_Playground\ECU_Farol_Baixo\Software\ECU_Farol_Baixo_Project\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Workspace\Simulink\Fink_Playground\ECU_Farol_Baixo\Software\ECU_Farol_Baixo_Project\.project
+
+!ENTRY org.eclipse.core.resources 2 10035 2025-08-11 09:06:06.899
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-08-11 09:06:32.568
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-08-11 09:06:32.568
+!MESSAGE Log4j2 initialized with config file C:\Workspace\Simulink\Fink_Playground\ECU_Farol_Baixo\Software\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-08-11 09:07:06.264
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-11 09:07:13.029
+!MESSAGE Indexed 'ECU_Farol_Baixo_Project' (17 sources, 78 headers) in 5.7 sec: 3,661 declarations; 13,456 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-11 09:19:19.167
+!MESSAGE Indexed 'ECU_Farol_Baixo_Project_V02' (17 sources, 78 headers) in 2.41 sec: 3,647 declarations; 13,278 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-08-11 09:31:25.264
+!MESSAGE Indexed 'ECU_Farol_Baixo_Project_V02' (17 sources, 78 headers) in 0.882 sec: 3,663 declarations; 13,527 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
