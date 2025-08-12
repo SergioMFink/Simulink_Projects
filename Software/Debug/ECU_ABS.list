@@ -124,7 +124,7 @@ int main(void)
  800016c:	681b      	ldr	r3, [r3, #0]
  800016e:	222d      	movs	r2, #45	@ 0x2d
  8000170:	635a      	str	r2, [r3, #52]	@ 0x34
-  /* USER CODE BEGIN WHILE */
+
   /* USER CODE BEGIN WHILE */
   while (1)
   {
@@ -186,12 +186,12 @@ int main(void)
  80001c2:	68fb      	ldr	r3, [r7, #12]
  80001c4:	2b01      	cmp	r3, #1
  80001c6:	d102      	bne.n	80001ce <main+0x82>
-          pwm_duty_cycle = 15;
+          pwm_duty_cycle = 15; // 30% de 50 (periodo)
  80001c8:	230f      	movs	r3, #15
  80001ca:	60bb      	str	r3, [r7, #8]
  80001cc:	e001      	b.n	80001d2 <main+0x86>
       } else {
-          pwm_duty_cycle = 45;
+          pwm_duty_cycle = 45; // 90% de 50 (periodo)
  80001ce:	232d      	movs	r3, #45	@ 0x2d
  80001d0:	60bb      	str	r3, [r7, #8]
       }

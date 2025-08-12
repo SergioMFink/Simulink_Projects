@@ -103,9 +103,7 @@ int main(void)
   /* USER CODE END 2 */
 
   /* Infinite loop */
-  /* USER CODE BEGIN WHILE */
-  /* USER CODE BEGIN WHILE */
-  /* USER CODE BEGIN WHILE */
+
   /* USER CODE BEGIN WHILE */
   while (1)
   {
@@ -128,9 +126,9 @@ int main(void)
       // --- Controle PWM da Válvula de Freio ---
       uint32_t pwm_duty_cycle;
       if (ativar_abs == 1) {
-          pwm_duty_cycle = 15;
+          pwm_duty_cycle = 15; // 30% de 50 (periodo)
       } else {
-          pwm_duty_cycle = 45;
+          pwm_duty_cycle = 45; // 90% de 50 (periodo)
       }
 
       // Atualiza o duty cycle do timer PWM
