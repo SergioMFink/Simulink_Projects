@@ -1,0 +1,8 @@
+ArduinoPinHandleMap.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2025a/toolbox/target/supportpackages/arduinobase/src/ArduinoPinHandleMap.cpp \
+ C:/Workspace/Simulink_Projects-HIL_ECU_ABS_PWM/Simulink_Projects-HIL_ECU_ABS_PWM/HIL_ECU_ABS_PWM/controle_hardware_abs_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025a/extern/include/tmwtypes.h
+
+C:/Workspace/Simulink_Projects-HIL_ECU_ABS_PWM/Simulink_Projects-HIL_ECU_ABS_PWM/HIL_ECU_ABS_PWM/controle_hardware_abs_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025a/extern/include/tmwtypes.h:

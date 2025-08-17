@@ -1,0 +1,41 @@
+io_wrappers.o: \
+ C:/ProgramData/MATLAB/SupportPackages/R2025a/toolbox/target/supportpackages/arduinobase/src/io_wrappers.cpp \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/binary.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/WCharacter.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/WString.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/HardwareSerial.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Stream.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Print.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Printable.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/USBAPI.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h \
+ C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h \
+ C:/Workspace/Simulink_Projects-HIL_ECU_ABS_PWM/Simulink_Projects-HIL_ECU_ABS_PWM/HIL_ECU_ABS_PWM/controle_hardware_abs_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025a/extern/include/tmwtypes.h
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/binary.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/WCharacter.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/WString.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/HardwareSerial.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Stream.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Print.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Printable.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/USBAPI.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/cores/arduino/Arduino.h:
+
+C:\ProgramData\MATLAB\SupportPackages\R2025a\aCLI\data\packages\arduino/hardware/avr/1.8.3/variants/standard/pins_arduino.h:
+
+C:/Workspace/Simulink_Projects-HIL_ECU_ABS_PWM/Simulink_Projects-HIL_ECU_ABS_PWM/HIL_ECU_ABS_PWM/controle_hardware_abs_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025a/extern/include/tmwtypes.h:
